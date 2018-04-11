@@ -1,0 +1,6 @@
+D:\Pro1\Druga\Druga\bin\Debug\Druga.exe.config
+D:\Pro1\Druga\Druga\bin\Debug\Druga.exe
+D:\Pro1\Druga\Druga\bin\Debug\Druga.pdb
+D:\Pro1\Druga\Druga\obj\Debug\Druga.csproj.CoreCompileInputs.cache
+D:\Pro1\Druga\Druga\obj\Debug\Druga.exe
+D:\Pro1\Druga\Druga\obj\Debug\Druga.pdb
